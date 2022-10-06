@@ -1,0 +1,15 @@
+C:\Users\я\Desktop\С#2\dz54\bin\Debug\net6.0\dz54.exe
+C:\Users\я\Desktop\С#2\dz54\bin\Debug\net6.0\dz54.deps.json
+C:\Users\я\Desktop\С#2\dz54\bin\Debug\net6.0\dz54.runtimeconfig.json
+C:\Users\я\Desktop\С#2\dz54\bin\Debug\net6.0\dz54.dll
+C:\Users\я\Desktop\С#2\dz54\bin\Debug\net6.0\dz54.pdb
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.AssemblyInfoInputs.cache
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.AssemblyInfo.cs
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.dll
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\refint\dz54.dll
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.pdb
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\dz54.genruntimeconfig.cache
+C:\Users\я\Desktop\С#2\dz54\obj\Debug\net6.0\ref\dz54.dll
